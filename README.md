@@ -1,4 +1,8 @@
-## Hi there 👋
+## Micah Parris
+
+**Pursing a B.S. in Computer Science**
+**University of North Alabama**
+***
 
 <!--
 **micahparris/micahparris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
