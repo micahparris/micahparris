@@ -15,6 +15,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-483D8B?style=flat&logo=godot-engine&logoColor=white)
+***
+##Contact
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micah-parris-ba5809289)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](micahparris1230@gmail.com)
+## Mobile: 731-438-1198
+
+
+
+
 
 
 
